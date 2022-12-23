@@ -1,0 +1,13 @@
+{
+        "manifest_version": 2,
+        "name": "Webpage Content Reader",
+        "description": "This extension reads the content of a webpage and displays it.",
+        "version": "1.0",
+        "browser_action": {
+          "default_popup": "popup.html"
+        },
+        "permissions": [
+          "activeTab"
+        ]
+}
+      
